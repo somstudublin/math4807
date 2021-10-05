@@ -2,3 +2,7 @@ quandl
 pandas
 numpy
 yahoo_fin
+html5lib
+matplotlib
+seaborn
+plotly
